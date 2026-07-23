@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://webcomunicasolutions.github.io/reference-uyo1j5/sitemap.xml
